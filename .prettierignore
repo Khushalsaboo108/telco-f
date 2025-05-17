@@ -1,0 +1,24 @@
+node_modules/
+
+.next/
+
+public/
+
+.env
+.env.*  # To ignore environment files with any extension (e.g., .env.local)
+
+*.log
+
+package-lock.json
+yarn.lock
+
+coverage/
+
+dist/
+*.d.ts
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
